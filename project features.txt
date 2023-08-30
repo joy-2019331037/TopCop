@@ -1,0 +1,16 @@
+network, if possible
+button//
+forget password 
+FIR copies should also be seen from admin side
+add interpol link//
+placerHolder in textfield//
+pop suspectLocated and suspectConfessed info while creating investigation report//
+complaint filed from a suspicious user, do you want to progress?
+
+//fix the glitch in suspectLocated.java
+//getSelectetdItem() first er item dile ney na ken jani balda
+//check l/I spelling 
+
+learn about xampp
+        
+
