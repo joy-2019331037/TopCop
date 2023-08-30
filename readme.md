@@ -6,3 +6,7 @@ Rest of the files containing features and designs I suppose are as they were.
 Opening this Crime_record_management folder with netbeans might still throw some errors, which would basically say that some jar and xml filepaths are missing. These can also be fixed easily. All the required jar files are in the /dist/lib/ folder. Adding these jars in the libraries section of netbeans would solve the issue.
 
 July 7, 2023
+
+I am pushing all these to github today, but the database issue is still there. It needs to be build again.
+
+August 30, 2023
